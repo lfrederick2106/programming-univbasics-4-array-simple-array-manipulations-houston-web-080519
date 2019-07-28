@@ -5,3 +5,7 @@ end
 def using_unshift(Array, String)
   Array.unshift(String)
 end
+
+def shift_with_args(Array)
+  
+  
